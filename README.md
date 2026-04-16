@@ -30,10 +30,11 @@ The automated knowledge extraction and graph construction process in this study 
 
 ## Key Experimental Results
 The methodology was evaluated on 50 randomly selected full-cycle EMRs from 1,884 KOA inpatient patients (covering admission, clinical course, and discharge records, totaling 777 text files). Under zero-shot conditions, the following core performance metrics were achieved with DeepSeek-V3.2:
-Task	                Precision (%) 	Recall (%)	F1 (%)
-Entity extraction	    89.96	          90.28	      90.12
-Relation extraction	  98.43	          93.85	      96.08
-Attribute extraction	97.51	          83.20	      89.79
+|Task	                  |Precision (%) 	|Recall (%)	 |F1 (%)
+|---|---|---|---|
+|Entity extraction	    |89.96	        |90.28	     |90.12
+|Relation extraction	  |98.43	        |93.85	     |96.08
+|Attribute extraction 	|97.51	        |83.20	     |89.79
 Detailed evaluation results can be found in the paper.
 
 ## Usage Instructions
