@@ -17,7 +17,7 @@ The repository includes code for automated knowledge extraction, knowledge fusio
 │   ├── KOA_Step1_Entity_Extraction_Prompt.txt      # Entity extraction prompts (English)
 │   ├── KOA_step1_实体抽取提示词.txt                 # Entity extraction prompts (Chinese)
 │   ├── KOA_Step2_Relation_Extraction_Prompt.txt    # Relation extraction prompts (English)
-│   ├── KOA_step2_关系抽取提示词.txt               # Relation extraction prompts (Chinese)
+│   ├── KOA_step2_关系抽取提示词.txt                # Relation extraction prompts (Chinese)
 │   ├── KOA_Step3_Knowledge_Fusion_Prompt.txt       # Knowledge fusion prompts (English)
 │   └── KOA_step3_知识融合提示词.txt               # Knowledge fusion prompts (Chinese)
 └── README.md
