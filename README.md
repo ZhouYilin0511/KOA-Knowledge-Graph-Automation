@@ -1,7 +1,8 @@
 # KOA-Knowledge-Graph-Automation
 
 ## Project Overview
-This repository provides the accompanying code and prompt resources for the paper titled "Automated Knowledge Extraction from Chinese Electronic Medical Records and the Construction of a Traditional Chinese Medicine and Western Medicine Integrated Knowledge Graph for Knee Osteoarthritis (KOA)." The study utilizes the DeepSeek-V3.2 large language model and a stepwise fine-tuned prompt engineering approach to automatically extract medical entities, relations, and attributes from multi-center Chinese electronic medical records (EMRs). After knowledge fusion, a knowledge graph for KOA combining both Traditional Chinese Medicine (TCM) and Western Medicine is constructed, with support for import into Neo4j for graph database storage and visualization.
+This repository provides the accompanying code and prompt resources for the paper titled "Automated Knowledge Extraction from Chinese Electronic Medical Records and the Construction of a Traditional Chinese Medicine and Western Medicine Integrated Knowledge Graph for Knee Osteoarthritis (KOA)." The study utilizes the DeepSeek-V3.2 large language model and a stepwise fine-tuned prompt engineering approach to automatically extract medical entities, relations, and attributes from multi-center Chinese electronic medical records (EMRs). After knowledge fusion, a knowledge graph for KOA combining both Traditional Chinese Medicine (TCM) and Western Medicine is constructed, with support for import into Neo4j for graph database storage and visualization.  
+
 The repository includes code for automated knowledge extraction, knowledge fusion, and Neo4j import, along with corresponding prompt templates. Due to privacy protection, data security, and ethical requirements, no real clinical data is provided.
 
 ## Repository Structure
