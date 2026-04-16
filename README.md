@@ -5,6 +5,7 @@ This repository provides the accompanying code and prompt resources for the pape
 The repository includes code for automated knowledge extraction, knowledge fusion, and Neo4j import, along with corresponding prompt templates. Due to privacy protection, data security, and ethical requirements, no real clinical data is provided.
 
 ## Repository Structure
+```
 .
 ├── config_deepseek.py                              # DeepSeek API configuration file
 ├── step1_entity_recognition_deepseek_Merge.py      # Entity extraction (merged results)
@@ -20,6 +21,7 @@ The repository includes code for automated knowledge extraction, knowledge fusio
 │   ├── KOA_Step3_Knowledge_Fusion_Prompt.txt       # Knowledge fusion prompts (English)
 │   └── KOA_step3_知识融合提示词.txt               # Knowledge fusion prompts (Chinese)
 └── README.md
+```
 
 ## Methodology
 The automated knowledge extraction and graph construction process in this study includes the following four key steps:
