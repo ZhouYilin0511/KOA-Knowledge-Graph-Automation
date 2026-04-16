@@ -35,6 +35,7 @@ The methodology was evaluated on 50 randomly selected full-cycle EMRs from 1,884
 |Entity extraction	    |89.96	        |90.28	     |90.12
 |Relation extraction	  |98.43	        |93.85	     |96.08
 |Attribute extraction 	|97.51	        |83.20	     |89.79
+|---|
 Detailed evaluation results can be found in the paper.
 
 ## Usage Instructions
