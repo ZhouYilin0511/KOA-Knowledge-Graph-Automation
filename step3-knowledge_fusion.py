@@ -224,7 +224,7 @@ for idx in range(start_index, end_index):
 
                 # Use non streaming transmission
                 response = client.chat.completions.create(
-                    model="deepseek-reasoner",
+                    model="deepseek-v4-pro",
                     messages=[{"role": "user", "content": prompt}],
                     stream=False,
                     max_tokens=65536,  # Maximum 64K to prevent truncation
